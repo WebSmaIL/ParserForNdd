@@ -272,3 +272,13 @@ Read port: 57442
 1658084970350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilesiDq00\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://localhost:57432/devtools/browser/4544cf28-93d5-4ef5-a81c-a3416a5b950e
+1658839598413	geckodriver	INFO	Listening on 127.0.0.1:61707
+1658839601449	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61708" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileGD0hNM"
+1658839601914	Marionette	INFO	Marionette enabled
+1658839601924	Marionette	INFO	Listening on port 61719
+WebDriver BiDi listening on ws://localhost:61708
+Read port: 61719
+1658839602155	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileGD0hNM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61708/devtools/browser/a94e9034-8a51-4a85-b6b4-a6f16d877e55
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
