@@ -1,0 +1,274 @@
+1657996137017	geckodriver	INFO	Listening on 127.0.0.1:59246
+1657996248247	geckodriver	INFO	Listening on 127.0.0.1:59366
+1657996251311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59367" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofile53Sbh1"
+1657996251623	Marionette	INFO	Marionette enabled
+1657996251630	Marionette	INFO	Listening on port 59376
+WebDriver BiDi listening on ws://localhost:59367
+Read port: 59376
+1657996251756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofile53Sbh1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59367/devtools/browser/0c9610c4-3af9-4482-8e02-662266f7fade
+1657996746277	geckodriver	INFO	Listening on 127.0.0.1:59638
+1657996749326	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59639" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileB7NKEn"
+1657996749706	Marionette	INFO	Marionette enabled
+1657996749713	Marionette	INFO	Listening on port 59649
+WebDriver BiDi listening on ws://localhost:59639
+Read port: 59649
+1657996749858	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileB7NKEn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59639/devtools/browser/ec4dea8e-8a07-48e5-bc20-9878f7fd08a4
+1657996775075	Marionette	INFO	Stopped listening on port 59649
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657996936141	geckodriver	INFO	Listening on 127.0.0.1:59829
+1657996939166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59830" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileVpnNAW"
+1657996939509	Marionette	INFO	Marionette enabled
+1657996939513	Marionette	INFO	Listening on port 59840
+WebDriver BiDi listening on ws://localhost:59830
+Read port: 59840
+1657996939781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileVpnNAW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59830/devtools/browser/6658f9f1-82ba-466e-96cb-73731ca6b1c8
+1657996954341	Marionette	INFO	Stopped listening on port 59840
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657997063320	geckodriver	INFO	Listening on 127.0.0.1:59966
+1657997066350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59967" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileVutZ2B"
+1657997066693	Marionette	INFO	Marionette enabled
+1657997066698	Marionette	INFO	Listening on port 59978
+WebDriver BiDi listening on ws://localhost:59967
+Read port: 59978
+1657997066998	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileVutZ2B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59967/devtools/browser/949556ac-cffc-49a1-b0d0-4319f05d48a8
+1657997070557	Marionette	INFO	Stopped listening on port 59978
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657997102782	geckodriver	INFO	Listening on 127.0.0.1:60030
+1657997106087	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60031" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileN52IaK"
+1657997106390	Marionette	INFO	Marionette enabled
+1657997106394	Marionette	INFO	Listening on port 60043
+WebDriver BiDi listening on ws://localhost:60031
+Read port: 60043
+1657997106516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileN52IaK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60031/devtools/browser/5036dabc-d88d-4450-8058-a54d09edf860
+1657997213167	geckodriver	INFO	Listening on 127.0.0.1:60149
+1657997216542	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60150" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileC8kneX"
+1657997216881	Marionette	INFO	Marionette enabled
+1657997216886	Marionette	INFO	Listening on port 60160
+WebDriver BiDi listening on ws://localhost:60150
+Read port: 60160
+1657997217157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileC8kneX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60150/devtools/browser/6a38bd42-a963-489d-a50b-5c6ce073d912
+1657997296029	geckodriver	INFO	Listening on 127.0.0.1:60245
+1657997299081	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60246" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileIGuAQI"
+1657997299408	Marionette	INFO	Marionette enabled
+1657997299413	Marionette	INFO	Listening on port 60256
+WebDriver BiDi listening on ws://localhost:60246
+Read port: 60256
+1657997299759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileIGuAQI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60246/devtools/browser/3fe769ff-14dd-4721-a41f-9cab85e93d5d
+1657997307723	Marionette	INFO	Stopped listening on port 60256
+1657997393615	geckodriver	INFO	Listening on 127.0.0.1:60396
+1657997396642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60397" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileDVnZtG"
+1657997396981	Marionette	INFO	Marionette enabled
+1657997396985	Marionette	INFO	Listening on port 60409
+WebDriver BiDi listening on ws://localhost:60397
+Read port: 60409
+1657997397295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileDVnZtG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60397/devtools/browser/e93c2bfa-dced-4417-b33c-374be28eae5a
+1657997478497	geckodriver	INFO	Listening on 127.0.0.1:60532
+1657997481540	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60533" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilesvNkiK"
+1657997481892	Marionette	INFO	Marionette enabled
+1657997481897	Marionette	INFO	Listening on port 60544
+WebDriver BiDi listening on ws://localhost:60533
+Read port: 60544
+1657997482151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilesvNkiK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60533/devtools/browser/cd1738b3-56d6-4539-a8ba-185eb1648654
+1657997509529	geckodriver	INFO	Listening on 127.0.0.1:60596
+1657997512569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60597" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileaBntuq"
+1657997512937	Marionette	INFO	Marionette enabled
+1657997512942	Marionette	INFO	Listening on port 60608
+WebDriver BiDi listening on ws://localhost:60597
+Read port: 60608
+1657997513063	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileaBntuq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60597/devtools/browser/f1852335-7b78-4ae2-ac4b-05266aa7d8e0
+1657997770216	geckodriver	INFO	Listening on 127.0.0.1:60814
+1657997773243	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60815" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofile4B0BSi"
+1657997773562	Marionette	INFO	Marionette enabled
+1657997773567	Marionette	INFO	Listening on port 60828
+Read port: 60828
+WebDriver BiDi listening on ws://localhost:60815
+1657997773680	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofile4B0BSi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60815/devtools/browser/a5cce0a6-6d4f-4c92-89d7-a854ccd90c1d
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+1657999002697	geckodriver	INFO	Listening on 127.0.0.1:59069
+1657999005753	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59070" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileGnVkw9"
+1657999006101	Marionette	INFO	Marionette enabled
+1657999006106	Marionette	INFO	Listening on port 59083
+WebDriver BiDi listening on ws://localhost:59070
+Read port: 59083
+1657999006422	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileGnVkw9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59070/devtools/browser/bc3f63f3-2cfe-4a2a-b609-885c8d41c6db
+1657999028254	geckodriver	INFO	Listening on 127.0.0.1:59142
+1657999031287	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59143" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileRzIrpl"
+1657999031591	Marionette	INFO	Marionette enabled
+1657999031595	Marionette	INFO	Listening on port 59154
+WebDriver BiDi listening on ws://localhost:59143
+Read port: 59154
+1657999031712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileRzIrpl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59143/devtools/browser/78ad5c59-8d1c-4b29-9e3b-4b70e07c3763
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+Shutting down due to socket process crash.
+1658082362306	geckodriver	INFO	Listening on 127.0.0.1:58693
+1658082365616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58694" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilefMuEEG"
+1658082366680	Marionette	INFO	Marionette enabled
+1658082366692	Marionette	INFO	Listening on port 58704
+WebDriver BiDi listening on ws://localhost:58694
+Read port: 58704
+1658082366984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilefMuEEG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58694/devtools/browser/ea57d7df-62ea-4459-af69-208128057f51
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+1658082563064	geckodriver	INFO	Listening on 127.0.0.1:58773
+1658082566240	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58774" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileQ5Y9yD"
+1658082566606	Marionette	INFO	Marionette enabled
+1658082566612	Marionette	INFO	Listening on port 58785
+WebDriver BiDi listening on ws://localhost:58774
+Read port: 58785
+1658082566774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileQ5Y9yD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58774/devtools/browser/b5599d51-9494-4ab6-b4fc-357fbcc64ab4
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://newsdd.ru"
+1658084474220	geckodriver	INFO	Listening on 127.0.0.1:57233
+1658084477350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57234" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileJpcwx4"
+1658084477738	Marionette	INFO	Marionette enabled
+1658084477743	Marionette	INFO	Listening on port 57243
+WebDriver BiDi listening on ws://localhost:57234
+Read port: 57243
+1658084477866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileJpcwx4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57234/devtools/browser/0f307b28-758d-41ab-8b01-59a57baf7acb
+1658084904992	geckodriver	INFO	Listening on 127.0.0.1:57362
+1658084908345	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57363" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileb0JYHT"
+1658084908709	Marionette	INFO	Marionette enabled
+1658084908714	Marionette	INFO	Listening on port 57372
+WebDriver BiDi listening on ws://localhost:57363
+Read port: 57372
+1658084908852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileb0JYHT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57363/devtools/browser/01a61a01-8fb9-40a0-aefd-9388e0fb7dd5
+1658084966684	geckodriver	INFO	Listening on 127.0.0.1:57431
+1658084969726	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57432" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilesiDq00"
+1658084970067	Marionette	INFO	Marionette enabled
+1658084970072	Marionette	INFO	Listening on port 57442
+WebDriver BiDi listening on ws://localhost:57432
+Read port: 57442
+1658084970350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilesiDq00\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57432/devtools/browser/4544cf28-93d5-4ef5-a81c-a3416a5b950e
