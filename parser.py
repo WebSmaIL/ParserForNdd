@@ -3,11 +3,12 @@ import requests
 from bs4 import BeautifulSoup as bs4
 import base64
 from progress.bar import IncrementalBar
+import os
 
 # Вводим учетные данные из wordpress
 wp_url = "https://newsdd.ru/wp-json/wp/v2"
-wp_user = "smailadmin"
-wp_password = "vBVl 1vcL mFV6 hnzD VsAV adDg"
+wp_user = os.getenv('WP_USER')
+wp_password = os.getenv('WP_PASSWORD')
 
 # Подготавливаем все для будущей аутентификации в wordpress
 credentials = wp_user + ':' + wp_password
@@ -17,7 +18,7 @@ token = base64.b64encode(credentials.encode())
 header = {'Authorization': 'Basic ' + token.decode('utf-8')}
 
 # Записываем картинку в файл
-with open(f'oldLinks.txt', 'r') as cacheTxt:
+with open(f'./cache/oldLinks.txt', 'r') as cacheTxt:
     cache = cacheTxt.read().split(';')
 
 # Открываем файл с юрлами
@@ -70,6 +71,7 @@ for element in urls:
             hrefArr.append(element['link_pref'] + link.get('href'))
         
     bar = IncrementalBar('Перебор', max = len(hrefArr))
+    os.system('cls')
     print('Массив ссылок сформирован,\nНа сайте - '
               + element['url']
               + " на "
@@ -197,7 +199,7 @@ for element in urls:
         except Exception as err:
             print("\nНе удалось добавить статью")
         
-        with open(f'oldLinks.txt', 'a') as cacheTxt:
+        with open(f'./cache/oldLinks.txt', 'a') as cacheTxt:
             cacheTxt.write(link + ';')
     
     bar.finish()
